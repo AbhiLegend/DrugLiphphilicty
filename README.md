@@ -1,4 +1,5 @@
 ## End Goal
+[![Mentioned in Awesome OpenVINO](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/openvinotoolkit/awesome-openvino)
 The combined purpose of the Flask server and the Go client is to create a system for predicting the lipophilicity of molecules and generating visual representations of these molecules. The system operates through the interaction between a backend server (Flask application) and a frontend client (Go application). Here's a summary of the end goal and how each part contributes to achieving it:
 
 Flask Server (Backend)
